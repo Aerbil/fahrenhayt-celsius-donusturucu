@@ -1,2 +1,2 @@
-# fahrenhayt-celcius-donusturucu
-Fahrenhayt-Celcius sıcaklık dönüştürücü.
+# fahrenhayt-celsius-donusturucu
+Fahrenhayt-Celsius sıcaklık dönüştürücü.
